@@ -1,5 +1,5 @@
 Simon's Stamp Collection App
 ---
 
-# About Simon
+# About
 Stuff about Simon here...
